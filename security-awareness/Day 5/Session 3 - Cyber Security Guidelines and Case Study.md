@@ -122,5 +122,4 @@
 - Maintain robust email filtering and sandboxing
 - Perform frequent backups and store them offline
 
-
-[[Session 4 - Practical Approach of Application Security and Understanding on OWASP Top 10]]
+---
