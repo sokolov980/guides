@@ -159,4 +159,4 @@ Perform regular personal security audits.
 - Change passwords **at least once per year**
 - **Enable 2-Factor Authentication (2FA)** on all supported platforms
 
-[[Session 5 - Cryptography, Trust properties, Symmetric and Asymmetric key, Hash function]]
+---
