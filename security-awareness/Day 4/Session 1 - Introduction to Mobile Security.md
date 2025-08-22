@@ -98,4 +98,5 @@
 | START_BLOCK_FORWARD_SMS_WITH_FILTER_KEYWORD | "BK ALL TXT FWD WITH KEYWORDS" |
 | START_FORWARD_CALL                | "CL PWD"                   |
 | START_FORWARD_SMS                 | (Not specified)             |
-[[Session 2 - Introduction to Information Security Management ISO 27000 Family Requirement]]
+
+---
