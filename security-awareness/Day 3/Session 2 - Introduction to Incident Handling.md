@@ -197,4 +197,4 @@ An organized process to defend and recover from security incidents. It includes 
 
 > Full tool list: [https://gbhackers.com/cyber-incident-response-tools/](https://gbhackers.com/cyber-incident-response-tools/)
 
-[[Session 3 - Exploitation Techniques - Hacking, Spoofing, Password cracking, DoS attacks, etc]]
+---
