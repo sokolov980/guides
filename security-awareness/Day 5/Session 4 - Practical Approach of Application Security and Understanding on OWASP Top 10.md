@@ -163,5 +163,3 @@
 | A10: Server-Side Request Forgery     | *(New in 2021)*                         |
 
 ---
-
-[[Session 5 - Introduction to Cloud Security]]
