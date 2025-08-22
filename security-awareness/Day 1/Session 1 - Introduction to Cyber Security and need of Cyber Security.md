@@ -63,4 +63,3 @@
 - Goal: Achieve **defense in depth** and a secure **ecosystem**
 
 ---
-[[Session 2 - Introduction to Operating System - Windows and Linux]]
