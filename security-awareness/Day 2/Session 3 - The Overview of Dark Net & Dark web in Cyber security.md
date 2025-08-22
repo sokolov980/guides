@@ -138,4 +138,4 @@
 - **TOR** emphasizes **anonymity**, hiding who you are online.
 - A **VPN** encrypts your connection via a server you choose, while **TOR** routes traffic randomly through a series of servers.
 
-[[Session 4 - Scanning Techniques Wireshark - Practicals]]
+---
