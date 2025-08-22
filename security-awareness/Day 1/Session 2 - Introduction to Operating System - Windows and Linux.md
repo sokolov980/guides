@@ -99,4 +99,4 @@
     - **Encryption Tools** – Secures sensitive data  
     - **Backup Solutions** – Ensures data recovery in case of failure or breach  
 
-[[Session 3 - Know your Operating System and Securing OS - Windows and Linux]]
+---
