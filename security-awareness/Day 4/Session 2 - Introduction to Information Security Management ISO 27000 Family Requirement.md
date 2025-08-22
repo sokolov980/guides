@@ -319,4 +319,4 @@
 - Backup policy (A12.3.1)  
 - Information transfer policy (A13.2.1 - A13.2.3)  
 
-[[Session 3 - ISMS Requirement for Network Security Devices]]
+---
