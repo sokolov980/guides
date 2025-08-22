@@ -135,3 +135,5 @@ All devices used for system administration must:
 ## Summary
 
 Vulnerability assessments and server hardening are essential to protect modern infrastructure. By utilizing reliable tools (e.g., Nessus, OpenVAS, CIS-CAT) and following industry guidelines (e.g., CIS, NIST, STIG), organizations can reduce their attack surface, maintain compliance, and respond proactively to threats.
+
+---
