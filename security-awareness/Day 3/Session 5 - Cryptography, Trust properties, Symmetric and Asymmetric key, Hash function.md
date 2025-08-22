@@ -132,4 +132,4 @@ A **hash function** is a **one-way cryptographic function** that generates a fix
 - **Asymmetric encryption** is ideal for secure key exchange and digital signatures.
 - **Hash functions** are essential for verifying integrity and securing authentication mechanisms.
 
-[[Session 6 - Cryptography, Digital Certificates and Digital Signatures]]
+---
