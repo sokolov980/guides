@@ -248,5 +248,6 @@ session  required     pam_unix.so
     - Tripwire  
     - OSSEC  
   - Keep systems patched and updated  
-```
+
+---
 
