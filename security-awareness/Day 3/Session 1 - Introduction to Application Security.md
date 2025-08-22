@@ -280,4 +280,4 @@
 - SSRF flaws occur when a web application fetches a remote resource using a user-supplied URL without proper validation. This enables attackers to craft requests to unintended internal destinations, even if protected by firewalls, VPNs, or network ACLs.  
 - As modern web applications expose more fetch capabilities, SSRF risk continues to rise—especially in complex, cloud-based architectures.
 
-[[Session 2 - Introduction to Incident Handling]]]
+---
