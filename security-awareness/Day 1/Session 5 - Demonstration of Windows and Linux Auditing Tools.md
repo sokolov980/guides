@@ -188,4 +188,4 @@ Monitors privileged operations that users can perform on objects.
 - **RogueChecker**: Detects rogue network devices.
 - **XARP**: Monitors ARP caches and can detect ARP poisoning.
 
-[[Session 6 - Introduction to Cyber Crisis Management Techniques]]
+---
