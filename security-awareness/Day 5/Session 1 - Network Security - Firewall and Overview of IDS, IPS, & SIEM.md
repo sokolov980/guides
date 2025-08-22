@@ -287,4 +287,4 @@
 ## Intrusion Detection System (IDS)
 - Monitors traffic for suspicious activity and alerts analysts.
 
-[[Session 2 - Forensic Methodologies for Incident Analysis]]
+---
