@@ -109,4 +109,4 @@ userdel -r jim    # Deletes user 'jim' and their home directory
 - `vim` – Advanced, modal text editor  
 - `nano` – Simpler, user-friendly editor
 
-[[Session 4 - Hardening OS - Windows and Linux]]
+---
