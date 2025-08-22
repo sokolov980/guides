@@ -206,5 +206,3 @@ A **confidence-building**, learning exercise based on simulated cybersecurity in
 - **Cyber Crisis Table Top Exercises (CCTTX)**
 
 ---
-
-[[Session 7 - Understanding about SOC Operations]]
