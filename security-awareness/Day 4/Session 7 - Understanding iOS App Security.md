@@ -197,3 +197,5 @@
 - **App Transport Security (ATS):** Enforces HTTPS connections.
 - **TLS Pinning:** Prevents man-in-the-middle attacks by pinning server certificates.
 - **End-to-End Encryption:** Protects data confidentiality in transit and storage.
+
+---
