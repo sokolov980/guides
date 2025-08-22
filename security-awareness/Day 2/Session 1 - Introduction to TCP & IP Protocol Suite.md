@@ -135,4 +135,3 @@
 - **Protocol #**: Identifies the higher-level protocol (e.g., 6 = TCP, 17 = UDP)
 
 ---
-[[Session 2 - Information Gathering Techniques - Practical demonstration]]
