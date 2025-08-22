@@ -107,4 +107,4 @@ This model defines **security ownership** between the Cloud Service Provider (CS
 
 Cloud computing offers flexibility and cost efficiency but requires shared diligence in securing data, applications, and infrastructure. Understanding deployment models, service categories, and the shared responsibility model is essential for building secure cloud environments.
 
-[[Session 6 - Hardening Techniques of System & Network Devices]]
+---
