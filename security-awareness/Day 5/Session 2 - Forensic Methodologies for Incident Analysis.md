@@ -227,5 +227,3 @@
 | Vulnerability Handling| The process of responding to discovered system flaws                      |
 
 ---
-
-[[Session 3 - Cyber Security Guidelines and Case Study]]
