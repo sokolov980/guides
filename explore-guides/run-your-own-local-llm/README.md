@@ -20,8 +20,6 @@ Open WebUI is a browser-based interface for local models. It connects to Ollama,
 ollama run llama3
 ```
 
----
-
 ### 2. Set Up Open WebUI
 
 ```bash
@@ -38,8 +36,8 @@ uv pip install -r requirements.txt
 DATA_DIR=~/.open-webui uvx --python 3.11 open-webui@latest serve
 ```
 
-After running the final command, Open WebUI will be available at:  
-http://localhost:8080
+After running the final command, Open WebUI will be available at:
+[http://localhost:8080](http://localhost:8080)
 
 ---
 
@@ -47,13 +45,13 @@ http://localhost:8080
 
 The 8B model runs smoothly but may hallucinate in longer sessions. ChatGPT-4o is estimated to use 1.8 billion parameters. For improved accuracy, you can run the LLaMA 3 model with 70 billion parameters from the terminal. This works efficiently on Apple Silicon machines.
 
-### 1. Install MLX-LM
+## 1. Install MLX-LM
 
 ```bash
 pip3 install mlx-lm
 ```
 
-### 2. Log In to Hugging Face
+## 2. Log In to Hugging Face
 
 LLaMA 3 is a gated model, so you must log in to Hugging Face to access it:
 
@@ -63,32 +61,44 @@ huggingface-cli login
 
 You will be prompted for your access token. You can generate one in your Hugging Face account settings.
 
----
-
-### 3. Run the Model
+## 3. Run the Model
 
 ```bash
 mlx_lm chat --model mlx-community/Llama-3.3-70B-Instruct-8bit
 ```
 
-An alias can simplify this. For example:
+## 4. (Optional) Set Up an Alias 
+
+To avoid typing the full command every time, you can create an alias in your shell config file (e.g., `.zshrc` or `.bashrc`):
 
 ```bash
-username@hostname ~ % llm
-Calling `python -m mlx_lm.chat…` directly is deprecated. Use the `mlx_lm.chat…` or `python -m mlx_lm chat…` instead.
-[INFO] Starting chat session with mlx-community/Llama-3.3-70B-Instruct-8bit.
+alias llm='mlx_lm chat --model mlx-community/Llama-3.3-70B-Instruct-8bit'
 ```
 
-The command list:
+After adding this line, reload your shell config:
+
+```bash
+source ~/.zshrc   # or source ~/.bashrc
+```
+
+Now you can start the model by simply running:
+```bash
+llm
+```
+
+### Commands Inside the Chat Interface
+
 - `q` to exit
+
 - `r` to reset the chat
-- `h` to display the commands
+
+- `h` to display the help commands
 
 ---
 
 ## Example Prompts
 
-```
+```txt
 >> what unique travel destinations would work well for a weekend getaway?
 
 Consider Asheville, Charleston, or Sedona for unique weekend getaways with charm.
