@@ -36,13 +36,13 @@ Additionally, store your hardware securely:
 - Use **TorBox** (based on Raspberry Pi) for routing all data through the Tor network, providing anonymity for all devices on the network.
 
 ### 2.3 DNS Security
-- Do not use your **ISP-provided DNS**. Instead, configure a trusted, privacy-respecting DNS service like **Quad9** or **Cloudflare** (or, ideally, use **Tor** for DNS resolution).
+- Do not use your **ISP-provided DNS**. Instead, configure a trusted, privacy-respecting DNS service like **Quad9** or **Control D** (or, ideally, use **Tor** for DNS resolution).
 - Whonix, for instance, uses **Tor** as its DNS service by default for maximum privacy.
 
 ### 2.4 IP Address Randomization
 - Utilize services like **VPNs**, **Proxies**, and **Tor** for IP address randomization.
   - **VPN**: Use a trusted, no-log VPN like **Mullvad**. VPNs can obscure your real IP but don’t provide full anonymity.
-  - **Tor**: Use **Tor** for optimal privacy. Tor encrypts your traffic and routes it through multiple nodes for anonymity.
+  - **Tor**: Tor encrypts your traffic and routes it through multiple nodes for anonymity.
   - **Proxies**: Tools like **ProxyChains** can be used to route traffic through multiple proxies, adding extra obfuscation.
 
 ---
@@ -61,7 +61,7 @@ Additionally, store your hardware securely:
 ### 3.3 Search Privacy
 - Use search engines that respect privacy. Avoid Google and Bing:
   - **DuckDuckGo**: A popular choice for anonymous searches.
-  - **SearX**: A meta search engine that aggregates multiple engines without tracking you.
+  - **SearXNG**: A meta search engine that aggregates multiple engines without tracking you.
   
 ### 3.4 Secure File Storage
 - Use **VeraCrypt** for encrypting sensitive files. VeraCrypt creates encrypted containers for your files, ensuring they are secure by default.
