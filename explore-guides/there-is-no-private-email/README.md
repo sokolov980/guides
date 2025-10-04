@@ -4,7 +4,7 @@ Email, as a protocol and communication medium, was not designed with privacy or 
 
 ## 1. The Illusion of Private Email
 
-Many users compare providers like ProtonMail, Tuta, or Skiff based on jurisdictional privacy laws, such as comparing Swiss and [German privacy regulations](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html). However, the main issue is not legal geography but the architecture of email itself.
+Many users compare providers like ProtonMail, Tuta, or Skiff based on jurisdictional privacy laws, such as comparing Swiss and [German privacy regulations](https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html). However, the main issue is not the legal jurisdiction but the architecture of email itself.
 
 Even if you host an email server on hardened infrastructure such as an OpenBSD-based mail system with Tor routing, encrypted domains, and air-gapped storage, email remains inherently insecure. The message you send still travels through multiple networks, intermediate servers, and ISPs, and will eventually sit unencrypted (at least temporarily) on another provider’s server.
 
@@ -24,7 +24,7 @@ In all these cases, users must trust that the service’s infrastructure is oper
 
 ## 3. Transparency and Provider Honesty
 
-Some providers are more transparent than others about these limitations. For instance, [cock.li](https://cock.li) openly states that its operator could technically read user emails and explicitly advises users to employ their own PGP encryption. While it is not a recommended service, this honesty about the limits of provider-based trust is notable compared to the more sanitized marketing language of larger companies.
+Some providers are more transparent than others about these limitations. For instance, [cock.li](https://cock.li) openly states that its operator could technically read user emails and explicitly advises users to employ their own PGP encryption. While it is not a recommended service, this transparency regarding the limits of provider-based trust is notable compared to the more sanitized marketing language of larger companies.
 
 ## 4. Metadata and Partial Encryption
 
@@ -34,7 +34,7 @@ Even when message contents are encrypted, metadata such as sender, recipient, ti
 
 End-to-end encryption (E2EE) works effectively only within a closed ecosystem such as Proton-to-Proton or Skiff-to-Skiff communication. While these implementations are secure in principle, their usefulness is limited because most email communication happens across providers. As a result, E2EE coverage in email is minimal for typical users.
 
-If the goal is private communication, purpose-built secure messengers such as [Briar](https://briarproject.org/how-it-works) or Matrix are more appropriate. These systems avoid centralized servers and metadata leakage inherent to email.
+If the goal is private communication, purpose-built secure messengers such as [Briar](https://briarproject.org/how-it-works) or [Matrix](https://matrix.org/docs/chat_basics/matrix-for-im/) are more appropriate. These systems avoid centralized servers and metadata leakage inherent to email.
 
 ## 6. The Practical Reality of Email Privacy
 
@@ -48,7 +48,7 @@ Users should assume that any email stored on a third-party server may eventually
 |-----------|-------------|-------------|
 | **ProtonMail** | Strong ecosystem (Mail, Calendar, Drive, VPN). Zero-access encryption at rest. Owns [SimpleLogin](https://simplelogin.io/). | Not true end-to-end encryption with external senders. Metadata partially exposed. |
 | **Tuta** | Open-source, encrypted calendar, cross-platform clients. | Messages only encrypted at rest. Dependent on server trust. |
-| **Skiff** | Encrypted mail, notes, drive, and collaboration suite. Transparent documentation. | Rendering performance issues. Some features less mature than competitors. |
+| **Skiff** | Encrypted mail, notes, drive, and collaboration suite. Transparent documentation. | Rendering performance issues. Some features are less mature than competitors. |
 | **cock.li** | Fully transparent about risks and limitations. | Not suitable for sensitive or professional use. |
 
 ### Integration Example: ProtonMail and SimpleLogin
@@ -103,6 +103,4 @@ At a technical level, encrypted or not, all email metadata and routing informati
 
 Email cannot provide full privacy or anonymity. Even the most security-focused providers must be trusted at multiple layers: application, infrastructure, and policy. Encryption mitigates risk but does not eliminate it.
 
-For users who require operational security, encrypted messengers such as [Briar](https://briarproject.org/how-it-works) or Matrix should be preferred. For others, privacy-oriented email services such as ProtonMail or Tuta can meaningfully reduce exposure if users understand their limits.
-
-Absolute privacy does not exist in email. What can exist is an informed trade-off between usability, trust, and control.
+For users who require operational security, encrypted messengers such as [Briar](https://briarproject.org/how-it-works) or [Matrix](https://matrix.org/docs/chat_basics/matrix-for-im/) should be preferred. For others, privacy-oriented email services such as [ProtonMail](https://proton.me/mail) or [Tuta](https://tuta.com/secure-email) can meaningfully reduce exposure if users understand their limitations.
