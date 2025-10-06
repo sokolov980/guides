@@ -1,4 +1,4 @@
-# How to Configure iOS for Privacy and Security
+# Configure iOS for Privacy and Security
 
 This guide walks you through configuring iOS for better privacy and security. By adjusting various settings, you can significantly reduce the amount of data collected by your device and protect yourself from unnecessary tracking.
 
