@@ -1,6 +1,6 @@
 # The Myth of Safe Jurisdictions
 
-In discussions about online privacy, jurisdiction often takes center stage. Many privacy enthusiasts advocate for avoiding “Five Eyes” countries — the United States, United Kingdom, Canada, Australia, and New Zealand — believing that hosting data outside these nations can provide safety from surveillance. This assumption oversimplifies a far more complex reality.
+In discussions about online privacy, jurisdiction often takes center stage. Many privacy enthusiasts advocate for avoiding “Five Eyes” countries, the United States, United Kingdom, Canada, Australia, and New Zealand, believing that hosting data outside these nations can provide safety from surveillance. This assumption oversimplifies a far more complex reality.
 
 In an age of global connectivity, where undersea cables link continents and data flows seamlessly across borders, the concept of a “safe jurisdiction” is increasingly outdated. Surveillance is no longer confined by geography or political alliances. It operates through a dense, interlocking web of legal frameworks, intelligence partnerships, and technical mechanisms that transcend any map or national boundary.
 
