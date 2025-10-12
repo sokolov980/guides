@@ -18,11 +18,11 @@ The result is a seamless global surveillance fabric. The notion of isolation fro
 
 ## Legal Frameworks and Extraterritorial Reach
 
-The expansion of surveillance is not just technical, it is legal. Laws such as the [U.S. Patriot Act](https://www.congress.gov/bill/107th-congress/house-bill/3162), [FISA Section 702](https://www.intelligence.senate.gov/laws/foreign-intelligence-surveillance-act), and the [CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) allow U.S. authorities to access data stored by American companies anywhere in the world. Even if a server is located in Europe or Asia, it can still fall under U.S. jurisdiction if the provider is based in the United States. 
+The expansion of surveillance is not just technical, it is legal. Laws such as the [U.S. Patriot Act](https://www.congress.gov/bill/107th-congress/house-bill/3162), [FISA Section 702](https://www.congress.gov/crs-product/R48592#_Toc202965548), and the [CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) allow U.S. authorities to access data stored by American companies anywhere in the world. Even if a server is located in Europe or Asia, it can still fall under U.S. jurisdiction if the provider is based in the United States. 
 
 Similarly, the [Investigatory Powers Act](https://www.legislation.gov.uk/ukpga/2016/25/contents/enacted) in the UK grants intelligence agencies broad powers to compel access to encrypted data and to intercept communications. Other nations have adopted similar laws under the guise of national security, effectively legalizing mass data collection and retention.
 
-Mutual Legal Assistance Treaties (MLATs) further extend surveillance powers beyond borders. These treaties allow one country’s law enforcement or intelligence services to request data directly from another country’s systems. What was once a mechanism for cooperation in criminal cases has evolved into a tool that regularly bypasses local privacy protections.
+[Mutual Legal Assistance Treaties (MLATs)](https://www.justice.gov/criminal/criminal-oia/file/1498806/dl) further extend surveillance powers beyond borders. These treaties allow one country’s law enforcement or intelligence services to request data directly from another country’s systems. What was once a mechanism for cooperation in criminal cases has evolved into a tool that regularly bypasses local privacy protections.
 
 In practice, this means that your data’s exposure is not determined solely by where it is hosted, but by the overlapping legal obligations of every jurisdiction involved in its transmission, storage, and access.
 
@@ -39,10 +39,10 @@ Data brokers have also become integral to surveillance systems. Companies like O
 Surveillance operates at multiple layers of the digital ecosystem. The most visible mechanisms include data retention laws and network interception, but the more insidious methods occur at the software and protocol level.
 
 **1. Telecommunications Tapping:**  
-Programs like TEMPORA in the UK and PRISM in the U.S. directly tap into fiber-optic cables and data centers, capturing vast quantities of communications. Telecom providers including AT&T, Verizon, and BT have been documented as direct participants.
+Programs like [TEMPORA](https://www.eff.org/document/20140618-der-spiegel-gchq-report-technical-abilities-tempora) in the UK and [PRISM](https://www.eff.org/sites/default/files/filenode/fisc_opinion_-_unconstitutional_surveillance_0.pdf) in the U.S. directly tap into fiber-optic cables and data centers, capturing vast quantities of communications. Telecom providers including AT&T, Verizon, and BT have been documented as direct participants.
 
 **2. Tracking Technologies:**  
-Modern surveillance extends into the browser and app ecosystem through persistent identifiers, Flask trackers, fingerprinting scripts, and telemetry embedded in everyday software. These tools build detailed behavioral profiles that can be merged with government datasets.
+Modern surveillance extends into the browser and app ecosystem through persistent identifiers, Flock trackers, fingerprinting scripts, and telemetry embedded in everyday software. These tools build detailed behavioral profiles that can be merged with government datasets.
 
 **3. TLS Interception and Certificate Exploits:**  
 Corporate and government actors deploy transparent proxies capable of intercepting encrypted HTTPS traffic under the pretense of network security. By installing root certificates on devices, they can decrypt and monitor data in transit.
@@ -55,7 +55,7 @@ Firms such as NSO Group (Pegasus), Candiru, and FinFisher have sold intrusion so
 
 ## Privacy Law and the Erosion of Universal Rights
 
-International privacy law has struggled to keep pace with globalized surveillance. Frameworks like the [General Data Protection Regulation (GDPR)](https://gdpr.eu/) provide limited protection, often undermined by national security exemptions. Efforts to establish universal privacy rights, such as the UN’s 2013 [Resolution on the Right to Privacy in the Digital Age](https://www.ohchr.org/en/hr-bodies/hrc/studies/right-privacy-digital-age), remain largely symbolic.
+International privacy law has struggled to keep pace with globalized surveillance. Frameworks like the [General Data Protection Regulation (GDPR)](https://gdpr.eu/) provide limited protection, often undermined by national security exemptions. Efforts to establish universal privacy rights, such as the UN’s 2013 [Resolution on the Right to Privacy in the Digital Age](https://digitallibrary.un.org/record/764407/?v=pdf#files), remain largely symbolic.
 
 The idea that surveillance targeted only at “foreigners” is legally or ethically justified has been central to national security policy for decades. Yet in a global communications environment, “foreign” has become a meaningless distinction. Data from one user’s device can pass through multiple jurisdictions, making everyone effectively a foreign target in someone else’s system.
 
@@ -63,9 +63,9 @@ Courts and legislatures have often deferred to security agencies on questions of
 
 ## Digital Rights, Whistleblowing, and Accountability
 
-The modern understanding of surveillance and privacy owes much to individuals who risked their freedom to expose hidden systems of control. [Edward Snowden](https://www.theguardian.com/world/edward-snowden)’s revelations about the NSA’s global surveillance network sparked the most significant debate on privacy and government power since the Cold War. His disclosures exposed not only technical details, but the moral and legal contradictions of a system built on secrecy.
+The modern understanding of surveillance and privacy owes much to individuals who risked their freedom to expose hidden systems of control. [Edward Snowden](https://github.com/iamcryptoki/snowden-archive?tab=readme-ov-file)’s revelations about the NSA’s global surveillance network sparked the most significant debate on privacy and government power since the Cold War. His disclosures exposed not only technical details, but the moral and legal contradictions of a system built on secrecy.
 
-Another key figure, [Aaron Swartz](https://www.newyorker.com/tech/annals-of-technology/the-life-and-afterlife-of-aaron-swartz), embodied the struggle for open access and digital rights from a different angle. Swartz’s advocacy for a free and open internet challenged the idea that information should be locked behind paywalls or restricted by corporate control. His prosecution under the [Computer Fraud and Abuse Act (CFAA)](https://www.justice.gov/criminal-ccips/computer-fraud-and-abuse-act) demonstrated how laws originally designed to prevent hacking can be used to criminalize digital activism. His death became a symbol of the growing conflict between information freedom and state or corporate control.
+Another key figure, [Aaron Swartz](https://nymag.com/news/features/aaron-swartz-2013-2/), embodied the struggle for open access and digital rights from a different angle. Swartz’s advocacy for a free and open internet challenged the idea that information should be locked behind paywalls or restricted by corporate control. His prosecution under the [Computer Fraud and Abuse Act (CFAA)](https://www.justice.gov/jm/jm-9-48000-computer-fraud) demonstrated how laws originally designed to prevent hacking can be used to criminalize digital activism. His death became a symbol of the growing conflict between information freedom and state or corporate control.
 
 Together, Snowden and Swartz illustrate two sides of the same issue: one revealing the scale of state surveillance, the other exposing how the law can be weaponized to suppress transparency and autonomy. Both cases remind us that privacy and access to information are inseparable components of a free society.
 
