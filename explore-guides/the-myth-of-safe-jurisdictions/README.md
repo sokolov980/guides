@@ -6,7 +6,7 @@ In an age of global connectivity, where undersea cables link continents and data
 
 ## The Global Web of Surveillance
 
-The Five Eyes alliance serves as the foundation of modern surveillance collaboration. Formed through the UKUSA Agreement, it connects the intelligence agencies of the United States (NSA), United Kingdom (GCHQ), Canada (CSE), Australia (ASD), and New Zealand (GCSB). These agencies share signals intelligence collected from fiber-optic cables, satellites, and data centers around the world. Facilities like Pine Gap in Australia and GCHQ Bude in the UK are critical nodes in this network.
+The Five Eyes alliance serves as the foundation of modern surveillance collaboration. Formed through the [UKUSA Agreement](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/UKUSA/smdpage14704/3/smdsort14704/title/), it connects the intelligence agencies of the United States (NSA), United Kingdom (GCHQ), Canada (CSE), Australia (ASD), and New Zealand (GCSB). These agencies share signals intelligence collected from fiber-optic cables, satellites, and data centers around the world. Facilities like Pine Gap in Australia and GCHQ Bude in the UK are critical nodes in this network.
 
 Following [Edward Snowden’s 2013 disclosures](https://www.theguardian.com/world/edward-snowden), the public learned the extent of these operations. Documents revealed the existence of PRISM, TEMPORA, and XKeyscore, programs that provided mass access to global communications, including data from major technology companies. Snowden’s leaks confirmed that the surveillance state was not theoretical, but operational, pervasive, and far-reaching.
 
