@@ -16,6 +16,16 @@ These guides help you improve your digital privacy and security across apps and 
 - [The Truth About Biometric Security](https://github.com/sokolov980/guides/tree/main/explore-guides/the-truth-about-biometric-security)
 - [There Is No Private Email](https://github.com/sokolov980/guides/tree/main/explore-guides/there-is-no-private-email)
 
+## Case Studies 
+
+- [Bad OPSEC](https://github.com/sokolov980/guides/tree/main/explore-guides/case-studies/bad-opsec)
+- [Companies](https://github.com/sokolov980/guides/tree/main/explore-guides/case-studies/companies)
+- [Countries](https://github.com/sokolov980/guides/tree/main/explore-guides/case-studies/countries)
+
+## Files
+
+- [Files]((https://github.com/sokolov980/guides/tree/main/files
+
 ## Philosophy
 
 - Turn off tracking and analytics by default
