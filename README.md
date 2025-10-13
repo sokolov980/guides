@@ -24,7 +24,7 @@ These guides help you improve your digital privacy and security across apps and 
 
 ## Files
 
-- [Files]((https://github.com/sokolov980/guides/tree/main/files
+- [Files](https://github.com/sokolov980/guides/tree/main/files
 
 ## Philosophy
 
