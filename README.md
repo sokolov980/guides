@@ -22,7 +22,7 @@ These guides help you improve your digital privacy and security across apps and 
 
 ## Files
 
-- [Files](https://github.com/sokolov980/guides/tree/main/files)
+- [user.js](https://github.com/sokolov980/guides/blob/main/files/user.js)
 
 ## Philosophy
 
@@ -35,6 +35,9 @@ These guides help you improve your digital privacy and security across apps and 
 
 - macOS system (Apple Silicon or Intel)
 - Firefox browser (latest version)
+- BurpSuite Proxy (latest version)
+- Docker (latest version)
+- Tails (for USB sticks)
 - Terminal access and basic familiarity with commands
 
 ## Disclaimer
