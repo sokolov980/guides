@@ -32,7 +32,7 @@ However, hardware encryption on SSDs is not always trustworthy. Some self-encryp
 
 ### Traditional Hard Drives
 
-For spinning hard drives, a single overwrite pass of zeros or random data is usually enough to make deleted data unrecoverable. Older methods, such as the Gutmann 35-pass algorithm or DoD 3-pass and 7-pass patterns, were designed for outdated encoding techniques on legacy drives. Most of these methods are unnecessary for modern hard drives.
+For spinning hard drives, a single overwrite pass of zeros or random data is usually enough to make deleted data unrecoverable. Older methods, such as the [Gutmann 35-pass algorithm](https://www.cs.auckland.ac.nz/~pgut001/pubs/secure_del.html) or [DoD 3-pass and 7-pass patterns](https://blancco.com/resources/blog-dod-5220-22-m-wiping-standard-method/), were designed for outdated encoding techniques on legacy drives. Most of these methods are unnecessary for modern hard drives.
 
 It is still good practice to verify the wipe by inspecting the raw sectors of the drive to ensure the data is no longer recoverable.
 
