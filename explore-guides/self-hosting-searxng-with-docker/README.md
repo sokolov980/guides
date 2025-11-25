@@ -142,7 +142,7 @@ docker compose logs -f caddy
 
 ---
 
-10. Updating SearXNG
+## 10. Updating SearXNG
 
 To update your instance:
 
