@@ -1,4 +1,4 @@
-Copyright (c) 2025 Sokolov. All rights reserved.
+Copyright (c) 2025-present Sokolov. All rights reserved.
 
 All content in this repository, including guides, tutorials, and instructional materials (the "Content"), is proprietary and confidential.
 
