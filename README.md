@@ -18,6 +18,8 @@ These guides help you improve your digital privacy and security across apps and 
 - [The Myth of Safe Jurisdictions](https://github.com/sokolov980/guides/tree/main/explore-guides/the-myth-of-safe-jurisdictions)
 - [The Truth About Biometric Security](https://github.com/sokolov980/guides/tree/main/explore-guides/the-truth-about-biometric-security)
 - [There Is No Private Email](https://github.com/sokolov980/guides/tree/main/explore-guides/there-is-no-private-email)
+- [Reclaim your Digital Space](https://github.com/sokolov980/guides/tree/main/explore-guides/reclaim-your-digital-space)
+- [Reclaim Your Privacy on the Road](https://github.com/sokolov980/guides/blob/main/explore-guides/reclaim-your-privacy-on-the-road/README.md)
 
 
 ## Philosophy
