@@ -1,4 +1,4 @@
-# Reclaiming Your Privacy on the Road
+# Reclaim Your Privacy on the Road
 ## A Comprehensive Guide to Automotive Data Collection, Brand Practices, and User Control
 
 Modern vehicles are no longer isolated mechanical systems. They are networked computing platforms that collect, transmit, and store large volumes of data about drivers, passengers, and vehicle usage. This shift has significant implications for privacy, ownership, and long-term control.
